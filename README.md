@@ -37,4 +37,4 @@ We ([@9hax.net](https://github.com/9hax)) will release it when the first parts o
 You can visit me directly through these cards:
 
 [![Website - hinameplays.duckdns.org](https://img.shields.io/badge/website-hinameplays.duckdns.org-blue.svg)](https://hinameplays.duckdns.org)
-[![GitHub - github.com/hinameplays](https://img.shields.io/badge/website-github.com/hinameplays-black.svg)](https://github.com/hinameplays)
+[![GitHub - github.com/hinameplays](https://img.shields.io/badge/github-github.com/hinameplays-black.svg)](https://github.com/hinameplays)
