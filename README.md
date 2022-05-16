@@ -27,7 +27,7 @@ I hope that you stick around for a while.
 I own multiple old machine tools and try to get the best out of them. Currently I am trying to achieve a specific output of 15kW/kg wet with a rotary.
 I also do basic restorations, usually bike parts like Simson cyl heads.
 
-Going fast is fun. I am working on multiple old cars and personally own a 1U Octavia w/ the 2l I4 AAZ engine (chipped to about 180hp).
+Going fast is fun. I am working on multiple old cars and daily a 1U Octavia w/ the 2l I4 AQY engine (chipped to about 180hp) or a 3rd gen sedan.
 
 Under the name [berlinkeys](https://github.com/berllinkeys) i am currently designing a custom 120% keyboard which you can build yourself.
 We ([@9hax.net](https://github.com/9hax)) will release it when the first parts of design are done.
