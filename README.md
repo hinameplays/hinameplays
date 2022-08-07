@@ -9,6 +9,8 @@ I hope that you stick around for a while.
 - 🌈 My pronouns are they/them.
 - ⚡ Fun fact: About 90% of fun facts are not actually interesting and forgotten after less than 17 seconds.
 
+Occupations: studying MechEng/doing IT support; Hobbies: Gaming, Engineering, Cars, Koks&Nutten, tacticool stuff
+
 ### Programming Languages
 
 - Python2, Python3
@@ -25,11 +27,11 @@ I hope that you stick around for a while.
 ### Current projects
 
 I own multiple old machine tools and try to get the best out of them. Currently I am trying to achieve a specific output of 15kW/kg wet with a rotary.
-I also do basic restorations, usually bike parts like Simson cyl heads.
+I also do basic restorations, usually bike parts like Simson cyl heads or other 30s-90s machinery.
 
-Going fast is fun. I am working on multiple old cars and daily a 1U Octavia w/ the 2l I4 AQY engine (chipped to about 180hp) or a 3rd gen sedan.
+Going fast is fun. Driving slow cars hard is especially fun. I am working on multiple old cars like a 1U Octavia w/ the 2l I4 AQY engine (chipped to about 180hp). I daily a 3rd gen sedan with minor changes. As you can tell, I am quite a Skoda fan, but I also do like the japanese stuff.
 
-Under the name [berlinkeys](https://github.com/berllinkeys) i am currently designing a custom 120% keyboard which you can build yourself.
+Under the name [berlinkeys](https://github.com/berllinkeys) i am currently designing a custom 120% keyboard with a friend.
 We ([@9hax.net](https://github.com/9hax)) will release it when the first parts of design are done.
 
 ### Where to find me
