@@ -7,9 +7,9 @@ I hope that you stick around for a while.
 - 💻 I'm pretty solid in python, java and I can do some basic stuff with [websites](https://hinameplays.duckdns.org).
 - 🌱 I’m yer big greasy guy, always in and around machines and old iron. I also like to hack stuff.
 - 🌈 My pronouns are he/him.
-- ⚡ Fun fact: About 90% of fun facts are not actually interesting and forgotten after less than 17 seconds.
+- ⚡ Fun fact: About 90% of fun facts are not actually interesting and forgotten after less than what my car takes for the half mile, about 17 seconds.
 
-Occupations: studying MechEng/doing IT support; Hobbies: Gaming, Engineering, Cars, [Koks&Nutten], tacticool stuff
+Occupations: studying MechEng/doing IT support; Hobbies: Gaming, Engineering, Cars, tacticool stuff
 
 ### Programming Languages
 
