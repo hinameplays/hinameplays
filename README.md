@@ -31,7 +31,7 @@ I also do basic restorations, usually bike parts like cyl heads or other 30s-90s
 
 Going fast is fun. Driving slow cars hard is especially fun. I am working on multiple old cars like a 1U Octavia w/ the 2l I4 AQY engine (now almost stock again). I daily a 3rd gen sedan with minor changes. As you can tell, I am a Skoda fan, but I also do like the japanese stuff.
 
-Under the name [berlinkeys](https://github.com/berllinkeys) i am currently designing a custom 120% keyboard with a friend.
+Under the name [berlinkeys](https://github.com/berlinkeys) i am currently designing a custom 120% keyboard with a friend.
 We ([@9hax.net](https://github.com/9hax)) will release it when the first parts of design are done.
 
 ### Where to find me
