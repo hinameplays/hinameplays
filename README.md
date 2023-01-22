@@ -8,16 +8,14 @@ I hope that you stick around for a while.
 - 🔧 I’m yer big greasy guy, always in and around machines and old iron. I also like to hack stuff.
 - 🌈 My pronouns are he/him; as some may know from my website I consider myself open to anything.
 
-Occupations: studying MechEng, doing IT support; Hobbies: Gaming, Engineering, Cars, tacticool stuff
+Occupations: studying MechEng w/ SE GS, doing IT support; Hobbies: Gaming, Engineering, Cars, tacticool stuff
 
-### Programming Languages
+Programming and markup languages as is best practice:
 
 - Python2/3
 - Java (+ Scala, C#, JS and other "child" languages)
 - asm (mainly 32/64) [and by extension c, I just never do projects in it because I don't like it]
 - G-Code, the manual way
-
-### Markup Languages
 
 - Markdown
 - LaTeX
